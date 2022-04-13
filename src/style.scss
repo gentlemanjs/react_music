@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+#root {
+    display: flex;
+    flex-wrap: wrap;
+}
+// fonts
+@import "./assets/styles/fonts";
+
+// reset
+@import "./assets/styles/reset";
+
+// header
+@import "./assets/styles/header";
+
+// header
+@import "./assets/styles/nav";
+
+// contents
+@import "./assets/styles/contents";
+
+// contents__1
+@import "./assets/styles/contents1";
+
+// contents__2
+@import "./assets/styles/contents2";
+
+// contents__3
+@import "./assets/styles/contents3";
+
+// contents__4
+@import "./assets/styles/contents4";
+
+// footer
+@import "./assets/styles/footer";
+
